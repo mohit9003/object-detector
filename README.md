@@ -66,5 +66,4 @@ model.val()
 model.predict(source='images/test', conf=0.25, save=True)
 ```
 
----
-Edit class names in `data.yaml` and you're ready. If you want, tell me your class names and I will update `data.yaml` and re-create the zip for you.
+
