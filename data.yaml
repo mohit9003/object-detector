@@ -1,0 +1,10 @@
+path: ./
+train: images/train
+val: images/val
+test: images/test
+
+# change these names to your classes
+names:
+  0: person
+  1: car
+  2: bike
